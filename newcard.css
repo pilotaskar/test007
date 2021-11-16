@@ -1,0 +1,31 @@
+.first-border {
+    border: solid 2px black;
+    height: 200px;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 50%;
+    
+}
+.second-border {
+    border: solid 2px black;
+    height: 50px;
+    border-radius: 10px;
+
+}
+.third-border {
+    border: solid 2px black;
+    height: 50px;
+    border-radius: 10px;
+
+}
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 700px;
+    align-items: stretch;
+    margin-left: 40%;
+    
+}
